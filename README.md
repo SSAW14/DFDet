@@ -50,6 +50,3 @@ python demo/image_demo.py --img demo/sample/Test-Dev/4210dfb597.jpg --config con
 MMDetection https://github.com/open-mmlab/mmdetection
 
 Swin-Transformer https://github.com/microsoft/Swin-Transformer
-
-## Last update
-2023-July-12
