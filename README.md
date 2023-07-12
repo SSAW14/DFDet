@@ -1,7 +1,7 @@
-# [DFDet]
+# DFDet - DeepFakes Detection in the wild
 
-This repository is for the paper:
-> **[Towards Sustainable Deepfake Recognition, Detection, and Segmentation by Re-Synthesis and Multi-Level Features]** \
+This repository is for a journal submission:
+> **Towards Sustainable Deepfake Recognition, Detection, and Segmentation by Re-Synthesis and Multi-Level Features** \
 > Pengxiang Xu <sup>1,#</sup>, Yang He<sup>2,#</sup>, Ning Yu <sup>3</sup>, Margret Keuper<sup>4</sup>, Shanshan Zhang<sup>1</sup>, Jian Yang <sup>1</sup>, Mario Fritz <sup>2</sup> \
 > <sup>1</sup> Nanjing University of Science and Technology, Nanjing, China \
 > <sup>2</sup> CISPA Helmholtz Center for Information Security, Saarbrücken, Germany \
